@@ -1,0 +1,3 @@
+Marigold: #DAA520
+Soft yellow: #fbea7
+Bursa tiles (icecold turquoise): #40e0d0
